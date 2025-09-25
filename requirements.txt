@@ -2,5 +2,3 @@ gunicorn
 flask
 scikit-learn
 numpy
-pickle
-python==3.13.6
